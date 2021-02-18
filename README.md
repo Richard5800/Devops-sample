@@ -1,1 +1,1 @@
-Empty Repositry
+Empty Repository
